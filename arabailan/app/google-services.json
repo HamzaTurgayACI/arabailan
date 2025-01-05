@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557271442014",
+    "project_id": "araba-ilan-6a397",
+    "storage_bucket": "araba-ilan-6a397.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557271442014:android:9d065f7d33ab711e2e0acf",
+        "android_client_info": {
+          "package_name": "com.example.arabailan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeF-De5X9FkJz_Y976LugB9pLgGUfXgvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
